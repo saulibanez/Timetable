@@ -1,0 +1,42 @@
+[
+	{
+		"_id": "1",
+		"name": "Saul",
+		"surname": "Ibáñez",
+		"subject": "Android",
+		"email": "saul@saul.com",
+		"time" : "9:00-11:00",
+		"days" : "L, X",
+		"password": "saul"
+	},
+	{
+		"_id": "2",
+		"name": "Saul",
+		"surname": "Ibáñez",
+		"subject": "Robotica",
+		"email": "saul@saul.com",
+		"time" : "11:00-13:00",
+		"days" : "M, X",
+		"password": "saul"
+	},
+	{
+		"_id": "3",
+		"name": "Arturo",
+		"surname": "Rodriguez",
+		"subject": "Android",
+		"email": "arturo@arturo.com",
+		"time" : "9:00-11:00",
+		"days" : "M, J",
+		"password": "arturo"
+	},
+	{
+		"_id": "4",
+		"name": "Jenny",
+		"surname": "Rodriguez",
+		"subject": "Seguridad",
+		"email": "jenny@jenny.com",
+		"time" : "11:00-13:00",
+		"days" : "L, V",
+		"password": "jenny"
+	}
+]
